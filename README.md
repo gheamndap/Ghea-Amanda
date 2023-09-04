@@ -1,2 +1,4 @@
-# Ghea
-Tugas 1 Pemrograman Berorientasi Objek
+# Tugas 1 Pemrograman Berorientasi Objek
+Ghea Amanda Aulia Putri
+10221060
+PBO B
